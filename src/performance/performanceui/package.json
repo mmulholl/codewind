@@ -41,7 +41,7 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "react-testing-library": "^7.0.0",
-    "node-sass": "^4.11.0"
+    "node-sass": "^7.0.0"
   },
   "homepage": "/performance"
 }
