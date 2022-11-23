@@ -13,6 +13,6 @@
     "express": "^4.16.4",
     "body-parser": "^1.18.3",
     "loadtest": "^3.0.0",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.5.0"
   }
 }
